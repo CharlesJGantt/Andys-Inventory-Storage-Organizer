@@ -8,11 +8,13 @@
 
 Andy's Inventory & Storage Organizer adds a crafted Organizer Wand for safe, configurable personal-inventory and vanilla-storage cleanup in Minecraft Bedrock. Sort, restack, pin slots, preserve layouts, protect hotbar gaps, Quick Stack into matching container stacks, or organize supported storage when it closes.
 
-**Current release:** 0.1.5  
-**Download:** [Andys_Inventory_Storage_Organizer_0.1.5.mcaddon](Andys_Inventory_Storage_Organizer_0.1.5.mcaddon)  
-**SHA-256:** `BD96D92828037C57B35882217E5717EB9A1E1A35930EA5D8F1827A8E82077863`
+**Current release:** 0.1.6  
+**Download:** [Andys_Inventory_Storage_Organizer_0.1.6.mcaddon](Andys_Inventory_Storage_Organizer_0.1.6.mcaddon)  
+**SHA-256:** `8873E228D518AD1FEDC7C1D30DAB385310123EF3387A4D018417AB96AF05C324`
 
 Minecraft Bedrock **26.30 or newer** is required. Cheats and experimental gameplay toggles are not required. Standard graphics and Vibrant Visuals are supported.
+
+Version 0.1.6 fixes storage wand interactions being replaced by the personal menu. It also replaces click-to-cycle options with clear toggles/dropdowns, named Save actions, and visible save confirmations.
 
 See the [project wiki](https://github.com/CharlesJGantt/Andys-Inventory-Storage-Organizer/wiki) for the complete player guide and troubleshooting reference.
 
@@ -36,11 +38,11 @@ See the [project wiki](https://github.com/CharlesJGantt/Andys-Inventory-Storage-
 
 ## Install
 
-1. Download and open `Andys_Inventory_Storage_Organizer_0.1.5.mcaddon` with Minecraft Bedrock.
+1. Download and open `Andys_Inventory_Storage_Organizer_0.1.6.mcaddon` with Minecraft Bedrock.
 2. Wait for Minecraft to report a successful import.
 3. Edit the desired world and activate **Andy's Inventory & Storage Organizer** under Behavior Packs.
 4. Its mutually linked Resource Pack activates with it.
-5. Confirm both packs show version 0.1.5, then enter the world.
+5. Confirm both packs show version 0.1.6, then enter the world.
 6. Obtain Charcoal and craft the Organizer Wand above two Sticks in a Crafting Table.
 
 Back up important worlds before installing or updating any add-on. Console players can import and configure the world on Windows or mobile, upload it to a Realm, then join from their console.
@@ -51,6 +53,8 @@ Back up important worlds before installing or updating any add-on. Console playe
 - **Crouch + use on supported storage:** open Storage Organizer for that container.
 
 The Organizer Wand is a custom item. A renamed ordinary stick will not open its menus.
+
+Use **Personal Settings** or **Storage Settings** for configurable values. Press the named Save button to apply them; cancelling changes nothing. The confirmation and returned status screen show the stored values.
 
 ## Hotbar behavior
 
